@@ -1,0 +1,28 @@
+{
+	"cadastros": {
+		"1": {
+			"_id": 1,
+			"nomeCompleto": "Arlindo Cruz",
+			"cidade": "Chapecó",
+			"estado": "SC",
+			"status": "Início",
+			"tipo": ""
+		},
+		"2": {
+			"_id": 2,
+			"nomeCompleto": "Beto Carreiro",
+			"cidade": "Penha",
+			"estado": "SC",
+			"status": "Finalizado",
+			"tipo": "Manutenção Preventiva"
+		},
+		"3": {
+			"_id": 3,
+			"nomeCompleto": "Osmarildo",
+			"cidade": "Rio Do Que",
+			"estado": "PR",
+			"status": "Status não padrão",
+			"tipo": "Manutenção Corretiva"
+		}
+	}
+}

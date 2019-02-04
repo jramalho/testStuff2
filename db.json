@@ -16,8 +16,8 @@
 			"telFixo": "(49)1234-5678",
 			"numero": "",
 			"complemento": "",
-			"latitude":"",
-			"longitude":""
+			"latitude":"-27.0703948",
+			"longitude":"-52.6252598,18"
 		},
 		"2": {
 			"_id": 2,
@@ -32,8 +32,8 @@
 			"rua": "Lá",
 			"numero": "",
 			"complemento": "",
-			"latitude":"",
-			"longitude":""
+			"latitude":"-27.0801751",
+			"longitude":"-52.6226289,15"
 		},
 		"3": {
 			"_id": 3,
@@ -48,8 +48,8 @@
 			"rua": "Não é Rua é Avenida",
 			"numero": "",
 			"complemento": "",
-			"latitude":"",
-			"longitude":""
+			"latitude":"-26.2293785",
+			"longitude":"-52.6756733,16"
 		}
 	}
 }

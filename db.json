@@ -62,7 +62,8 @@
 			"celular":"(47)15678-8522",
 			"telFixo":"(55)1243-9875",
 			"acessoAoPoço":"Ótimo",
-			"obs":""
+			"obs":"",
+			"testeVazao":"true"
 		}
 	}
 }

@@ -64,7 +64,8 @@
 			"acessoAoPoço":"Ótimo",
 			"obs":"",
 			"testeVazao":"false",
-			"isBombaEmprestada":"false"
+			"isBombaEmprestada":"false",
+			"bombaEmprestada":"Bomba MasterFlex 2000"
 		}
 	}
 }

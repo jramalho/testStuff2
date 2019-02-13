@@ -65,7 +65,9 @@
 			"obs":"",
 			"testeVazao":"false",
 			"isBombaEmprestada":"true",
-			"bombaEmprestada":"Bomba MasterFlex 2000"
+			"bombaEmprestada":"Bomba MasterFlex 2000",
+			"isAss1":"true",
+			"ass1":"Osvanildo"
 		}
 	}
 }

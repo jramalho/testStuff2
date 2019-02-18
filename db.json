@@ -21,7 +21,12 @@
 			"celular":"(49)12354-5678",
 			"telFixo":"(49)3333-3333",
 			"acessoAoPoco":"Bom",
-			"obs":"so entra no poço se tiver de motoca"
+			"obs":"so entra no poço se tiver de motoca",
+			"ass1":"Osvanildo",
+			"ass2":"José Mario",
+			"ass3":"Ecloir",
+			"ass4":"Miraldo",
+			"responsavel":"Joaquim"
 		},
 		"2": {
 			"_id": 2,

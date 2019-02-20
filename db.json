@@ -46,7 +46,8 @@
 			"celular":"(49)99999-9999",
 			"telFixo":"(49)1234-5678",
 			"acessoAoPoco":"Ruim",
-			"obs":"so entra no poço se tiver de HR"
+			"obs":"so entra no poço se tiver de HR",
+			"arrayServicos":["Manutenção do Quadro", "Necessário Guincho Manual", "Fazer Limpeza do Reservatório"]
 		},
 		"3": {
 			"_id": 3,

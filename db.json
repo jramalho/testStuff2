@@ -33,7 +33,7 @@
 			"_id": 2,
 			"nomeCompleto": "Beto Carreiro",
 			"cidade": "Penha",
-			"estado": "SC",
+			"estado": "",
 			"status": "Finalização",
 			"data":1551123600000,
 			"tipo": "Manutenção Preventiva",

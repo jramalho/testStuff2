@@ -49,7 +49,9 @@
 			"telFixo":"(49)1234-5678",
 			"acessoAoPoco":"Ruim",
 			"obs":"so entra no poço se tiver de HR",
-			"arrayServicos":["Manutenção do quadro", "Fazer limpeza do reservatório"]
+			"arrayServicos":["Manutenção do quadro", "Fazer limpeza do reservatório"],
+			"manutDoQuadro":false,
+			"limpezaReservatorio":false
 		},
 		"3": {
 			"_id": 3,

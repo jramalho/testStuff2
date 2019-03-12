@@ -163,7 +163,7 @@
 			"lat": "-27.084695154417616",
 			"long": "-52.62689771130681",
 			"profunDoPoco": "25",
-    			"profunDaBomba": "12",
+    		"profunDaBomba": "12",
 			"desnivel": "3",
 			"distPocoRes": "2",
 			"ltsRes": "2000",
@@ -284,7 +284,14 @@
 			"hasCommentG": false,
 			"descricaoServicos": "",
 			"materiaisUtilizados": "",
-			"assinatura":""
+			"assinatura":"",
+			"fotoA":false,
+			"fotoB": false,
+			"fotoC": false,
+			"fotoD": false,
+			"fotoE": false,
+			"fotoF": false,
+			"fotoG": false
 		}
 	}
 }

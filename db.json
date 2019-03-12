@@ -52,7 +52,11 @@
 			"arrayServicos":["Manutenção do quadro", "Fazer limpeza do reservatório"],
 			"manutDoQuadro":false,
 			"limpezaReservatorio":false,
-			"isTrocaDeTubos":false
+			"isTrocaDeTubos":false,
+			"ass1":"Osvanildo",
+			"ass2":"José Mario",
+			"ass3":"Ecloir",
+			"ass4":"Miraldo"
 		},
 		"3": {
 			"_id": 3,
@@ -283,7 +287,7 @@
 			"hasCommentF": false,
 			"hasCommentG": false,
 			"descricaoServicos": "",
-			"materiaisUtilizados": "",
+			"matUtilizados": "",
 			"pedidoAssinatura":"",
 			"fotoA":false,
 			"fotoB": false,

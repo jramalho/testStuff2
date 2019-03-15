@@ -29,14 +29,7 @@
 			"ass1":"Osvanildo",
 			"ass2":"José Mario",
 			"ass3":"Ecloir",
-			"ass4":"Miraldo",
-			"comentario_foto_A":"",
-			"comentario_foto_B":"",
-			"comentario_foto_C":"",
-			"comentario_foto_D":"",
-			"comentario_foto_E":"",
-			"comentario_foto_F":"",
-			"comentario_foto_G":""
+			"ass4":"Miraldo"
 		},
 		"7":{
 			"_id": 7,
@@ -120,14 +113,7 @@
 			"fotoD": false,
 			"fotoE": false,
 			"fotoF": false,
-			"fotoG": false,
-			"comentario_foto_A":"",
-			"comentario_foto_B":"",
-			"comentario_foto_C":"",
-			"comentario_foto_D":"",
-			"comentario_foto_E":"",
-			"comentario_foto_F":"",
-			"comentario_foto_G":""
+			"fotoG": false
 		}
 	}
 }

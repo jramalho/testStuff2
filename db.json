@@ -29,7 +29,14 @@
 			"ass1":"Osvanildo",
 			"ass2":"José Mario",
 			"ass3":"Ecloir",
-			"ass4":"Miraldo"
+			"ass4":"Miraldo",
+			"comentario_foto_A":"",
+			"comentario_foto_B":"",
+			"comentario_foto_C":"",
+			"comentario_foto_D":"",
+			"comentario_foto_E":"",
+			"comentario_foto_F":"",
+			"comentario_foto_G":"",
 		},
 		"7":{
 			"_id": 7,
@@ -62,7 +69,7 @@
 			"lat": "-27.084695154417616",
 			"long": "-52.62689771130681",
 			"profunDoPoco": "",
-    		"profunDaBomba": "",
+    			"profunDaBomba": "",
 			"desnivel": "",
 			"distPocoRes": "",
 			"ltsRes": "",
@@ -113,7 +120,14 @@
 			"fotoD": false,
 			"fotoE": false,
 			"fotoF": false,
-			"fotoG": false
+			"fotoG": false,
+			"comentario_foto_A":"",
+			"comentario_foto_B":"",
+			"comentario_foto_C":"",
+			"comentario_foto_D":"",
+			"comentario_foto_E":"",
+			"comentario_foto_F":"",
+			"comentario_foto_G":""
 		}
 	}
 }

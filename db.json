@@ -41,6 +41,8 @@
 			"tipo":"",
 			"iden": "",
 			"cpfcnpj": "cnpj",
+			"celular":"",
+			"telFixo":"",
 			"rg":"",
 			"rua":"",
 			"bairro":"",
